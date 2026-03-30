@@ -13,7 +13,6 @@ This application is built using Spring Boot, integrated with Google Gemini API, 
 Deployed URL:
 https://ai-risk-analyzer.onrender.com
 
-
  Tech Stack
 
  Backend
